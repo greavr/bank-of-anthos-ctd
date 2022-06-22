@@ -34,3 +34,5 @@ override.tf.json
 .terraformrc
 terraform.rc
 .terraform.lock.hcl
+backend.tf
+data_project.tf
